@@ -8,7 +8,7 @@
 - Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **Decord Lab as a Senior Software Engineer.**
+- 🏢 Working at **Decord Lab as a Junior Software Engineer.**
 
 - 🛠️ Working on **MERN , Web Application, ML**
 
