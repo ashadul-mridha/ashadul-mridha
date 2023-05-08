@@ -8,7 +8,7 @@
 - Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **Decord Lab as a Junior Software Engineer.**
+- 🏢 Working at **Bit Byte Technology as a Junior Software Engineer.**
 
 - 🛠️ Working on **MERN , Web Application, ML**
 
@@ -30,7 +30,7 @@
   - **🗳 UI toolkits:** • [Bootstap](https://getbootstrap.com/) • [MUI](https://mui.com/) • [Tailwind CSS](https://tailwindcss.com/)
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻 JavaScript` • `👨‍🏭 Node.js` • `👨‍🔧 PHP`
-  - **🔭 Frameworks:** • [Express.js](https://expressjs.com/) • [Laravel](https://laravel.com/)
+  - **🔭 Frameworks:** • [Express.js](https://expressjs.com/)• [Nest.js](https://nestjs.com/) • [Laravel](https://laravel.com/)
   - **💾 Databases:** • [MYSQL](https://www.mysql.com/) • [MongoDB](https://www.mongodb.com/) • [PostgreSQL](https://www.postgresql.org/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://restfulapi.net/) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
