@@ -18,25 +18,25 @@
 
 - 👨‍💻 All of my projects are available at [ashadulmridha.com](ashadulmridha.com)
 
-- 💬 Ask me about **Web Api, MERN stack, JavaScript, Next.js, Database**
+- 💬 Ask me about **Web Api, MERN stack, JavaScript, AWS, Database**
 
 - 📫 How to reach me **ashadulmridhaprog@gmail.com**
 
-#### What my skill set looks like?
+#### What my skill set look like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧙🏻 HTML` • `👨‍🏭 CSS` • `👨‍🔧 JavaScript`
+  - **📜 Languages:** • `🧙🏻 HTML` • `👨‍🏭 CSS` • `👨‍🔧 JavaScript` • `👨‍🏭 Typescript`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [React](https://reactjs.org/) • [Next.js](https://nextjs.org/)
   - **🗳 UI toolkits:** • [Bootstap](https://getbootstrap.com/) • [MUI](https://mui.com/) • [Tailwind CSS](https://tailwindcss.com/)
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻 JavaScript` • `👨‍🏭 Node.js` • `👨‍🔧 PHP`
+  - **📜 Languages:** • `🧙🏻 JavaScript` • `👨‍🏭 Node.js` • `👨‍🔧 PHP` • `👨‍🏭 Python`
   - **🔭 Frameworks:** • [Express.js](https://expressjs.com/)• [Nest.js](https://nestjs.com/) • [Laravel](https://laravel.com/)
   - **💾 Databases:** • [MYSQL](https://www.mysql.com/) • [MongoDB](https://www.mongodb.com/) • [PostgreSQL](https://www.postgresql.org/)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://restfulapi.net/) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [GitHub](https://github.com/)
-  - **🗃 Project management:** • [Clickup](https://app.clickup.com/) 
+  - **🗃 Project management:** • [Clickup](https://app.clickup.com/) • [Jira](https://www.atlassian.com/software/jira) 
   - **🗂 Tools:** • [Postman](https://www.postman.com/) • [Netlify](https://www.netlify.com/) • [Vercel](https://vercel.com/) • [Github Pages](https://pages.github.com/)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Separation) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
